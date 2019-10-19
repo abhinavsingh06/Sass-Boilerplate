@@ -5,6 +5,7 @@ _This is a Sass-Boilerplate which includes basic class styles to get you started
 ## Getting started
 
 Follow these instructions to use this
-.. Fork this repo.
-.. Make a clone of this repo.
-.. You are set to go.
+
+- Fork this repo.
+- Make a clone of this repo.
+- You are set to go.
