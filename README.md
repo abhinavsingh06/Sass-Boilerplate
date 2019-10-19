@@ -1,1 +1,3 @@
-= Sass-Boilerplate
+# Sass-Boilerplate
+
+<hr/>
